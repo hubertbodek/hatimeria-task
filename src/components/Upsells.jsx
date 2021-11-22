@@ -14,7 +14,6 @@ const Upsells = () => {
 
 		fetchData()
 			.then((data) => {
-				console.log(data);
 				setUpsells(data);
 			})
 			.catch((error) => console.log(error));

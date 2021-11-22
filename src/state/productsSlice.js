@@ -30,8 +30,6 @@ export const productsSlice = createSlice({
 			state.items = state.items.filter((item) => item.id !== action.payload);
 		},
 		updateQty: (state, action) => {
-			console.log(action.payload);
-
 			const itemIdx = state.items.findIndex(
 				(item) => item.id === action.payload.id
 			);
