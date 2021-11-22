@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hatimeria-task/static/css/main.d4ab9e47.chunk.css",
-    "main.js": "/hatimeria-task/static/js/main.ba5a9638.chunk.js",
-    "main.js.map": "/hatimeria-task/static/js/main.ba5a9638.chunk.js.map",
+    "main.js": "/hatimeria-task/static/js/main.51a90c42.chunk.js",
+    "main.js.map": "/hatimeria-task/static/js/main.51a90c42.chunk.js.map",
     "runtime-main.js": "/hatimeria-task/static/js/runtime-main.3d5bc270.js",
     "runtime-main.js.map": "/hatimeria-task/static/js/runtime-main.3d5bc270.js.map",
     "static/js/2.4ebf8523.chunk.js": "/hatimeria-task/static/js/2.4ebf8523.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3d5bc270.js",
     "static/js/2.4ebf8523.chunk.js",
     "static/css/main.d4ab9e47.chunk.css",
-    "static/js/main.ba5a9638.chunk.js"
+    "static/js/main.51a90c42.chunk.js"
   ]
 }
