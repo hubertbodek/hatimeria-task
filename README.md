@@ -7,3 +7,5 @@ To setup the project run:
 ### `npm start`
 
 The task took me 5-6 hours.
+
+Live preveiw [here](https://hubertbodek.github.io/hatimeria-task/)
