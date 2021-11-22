@@ -24,7 +24,7 @@ export const productsSlice = createSlice({
 			state.items.forEach((item) => {
 				sum += item.price.current_price * item.qty;
 			});
-			state.total = sum;
+			state.total = sum + state.shipping;
 		},
 		deleteItem: (state, action) => {
 			state.items = state.items.filter((item) => item.id !== action.payload);
