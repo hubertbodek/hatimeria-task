@@ -1,5 +1,6 @@
 {
 	"name": "hatimeria-task",
+	"homepage": "https://hubertbodek.github.io/hatimeria-task",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
