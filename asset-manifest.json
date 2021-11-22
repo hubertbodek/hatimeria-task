@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4ab9e47.chunk.css",
-    "main.js": "/static/js/main.b2f8452a.chunk.js",
-    "main.js.map": "/static/js/main.b2f8452a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.326e9e1d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.326e9e1d.js.map",
-    "static/js/2.4ebf8523.chunk.js": "/static/js/2.4ebf8523.chunk.js",
-    "static/js/2.4ebf8523.chunk.js.map": "/static/js/2.4ebf8523.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d4ab9e47.chunk.css.map": "/static/css/main.d4ab9e47.chunk.css.map",
-    "static/js/2.4ebf8523.chunk.js.LICENSE.txt": "/static/js/2.4ebf8523.chunk.js.LICENSE.txt"
+    "main.css": "/hatimeria-task/static/css/main.d4ab9e47.chunk.css",
+    "main.js": "/hatimeria-task/static/js/main.b2f8452a.chunk.js",
+    "main.js.map": "/hatimeria-task/static/js/main.b2f8452a.chunk.js.map",
+    "runtime-main.js": "/hatimeria-task/static/js/runtime-main.3d5bc270.js",
+    "runtime-main.js.map": "/hatimeria-task/static/js/runtime-main.3d5bc270.js.map",
+    "static/js/2.4ebf8523.chunk.js": "/hatimeria-task/static/js/2.4ebf8523.chunk.js",
+    "static/js/2.4ebf8523.chunk.js.map": "/hatimeria-task/static/js/2.4ebf8523.chunk.js.map",
+    "index.html": "/hatimeria-task/index.html",
+    "static/css/main.d4ab9e47.chunk.css.map": "/hatimeria-task/static/css/main.d4ab9e47.chunk.css.map",
+    "static/js/2.4ebf8523.chunk.js.LICENSE.txt": "/hatimeria-task/static/js/2.4ebf8523.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.326e9e1d.js",
+    "static/js/runtime-main.3d5bc270.js",
     "static/js/2.4ebf8523.chunk.js",
     "static/css/main.d4ab9e47.chunk.css",
     "static/js/main.b2f8452a.chunk.js"
